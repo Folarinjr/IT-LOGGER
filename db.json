@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "work on pliers",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2022-02-26T18:35:20.102Z"
+    },
+    {
+      "id": 2,
+      "message": "Grace abiodun",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2022-02-28T15:20:54.749Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
